@@ -12,8 +12,8 @@
   margin-top: 40px;
 }
 
-.Weather img {
-  height: 70px;
+.Weather canvas {
+  margin-top: 5px;
 }
 
 .Weather strong {
